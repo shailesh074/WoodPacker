@@ -1,0 +1,6 @@
+{
+  "name": "Woodpacker Hostel",
+  "description": "An immersive, cinematic storytelling platform and experience design for Woodpacker Hostel in Auroville, Pondicherry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
